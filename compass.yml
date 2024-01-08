@@ -1,0 +1,20 @@
+name: atlassian-github-app-addon
+id: ari:cloud:compass:fe16f236-8ecb-4445-8586-5ebd155a2533:component/639c4a85-a7f7-47da-af17-094b43ea6ccc/7aef2b34-4b01-4fff-9f87-ce1379158790
+description: Add a branch to GitHub from JIRA
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/Ammar-Knowledge/atlassian-github-app-addon
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/ammar-knowledge/atlassian-github-app-addon
+relationships:
+  DEPENDS_ON: []
+labels:
+  - language:ruby
+  - source:github
+customFields: null
